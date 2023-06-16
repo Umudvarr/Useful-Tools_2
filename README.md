@@ -19,3 +19,5 @@ You can find useful informaiton here which you search
 # Emotion Rating
 
 ![image](https://github.com/Umudvarr/Useful-tools-2/assets/126266744/f73dd60e-0a7f-4ce0-aa4f-c9559a9d0cc6)
+
+# Switch
