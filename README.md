@@ -55,3 +55,5 @@ You can find useful informaiton here which you search
 # Search
 
 ![resim](https://github.com/Umudvarr/Useful-tools-2/assets/126266744/e0570fce-b4e1-4f3c-86c2-639897eabef9)
+
+# Switch btn emotion
