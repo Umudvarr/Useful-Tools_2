@@ -63,3 +63,5 @@ You can find useful informaiton here which you search
 # Blue tick
 
 ![image](https://github.com/Umudvarr/Useful-tools-2/assets/126266744/9036e1fc-1eb1-4f96-8786-8a82369732f8)
+
+# Remove icon
