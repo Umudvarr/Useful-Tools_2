@@ -67,3 +67,5 @@ You can find useful informaiton here which you search
 # Remove icon
 
 ![resim](https://github.com/Umudvarr/Useful-tools-2/assets/126266744/dae2168d-0254-4488-aa53-7f26bd9adb0e)
+
+# Note
